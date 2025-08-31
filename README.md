@@ -8,11 +8,11 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 # Why is Requirement Analysis Important?
 
-~ Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
-~ Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
-~ Basis for Design and Development: Provides a solid foundation for designing and developing the system.
-~ Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
-~ Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+- Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+- Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
+- Basis for Design and Development: Provides a solid foundation for designing and developing the system.
+- Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
+- Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
 # Key Activities in Requirement Analysis
 
@@ -66,8 +66,8 @@ Key Non-functional Requirements:
 # Case Diagram
 Visual representation of interactions between users and the system.
 
-What are Use Case Diagrams?
-Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+What are use case diagrams?
+We use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
 Benefits of Use Case Diagrams:
 - Provide a clear visual representation of system functionalities.
@@ -75,4 +75,18 @@ Benefits of Use Case Diagrams:
 - Facilitate communication among stakeholders and development
 
 The case diagram for our project will look something like this https://github.com/TinyBila/requirement-analysis/blob/4e3338813bafd47098927e708df42ede7afa07ba/alx-booking-uc.png. It will be a case diagram that used for the booking system, Listing actors and use cases.
-  
+
+# Acceptance Criteria
+
+What is Acceptance Criteria?
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+How to Define Acceptance Criteria:
+- Be specific and measurable.
+- Include functional and non-functional aspects.
+- Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+
+Benefits of Acceptance Criteria:
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.

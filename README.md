@@ -39,9 +39,9 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-## Types of Requirements
+# Types of Requirements
 
-# Functional Requirements 
+## Functional Requirements 
 Definition: Describe what the system should do.
 Examples: User authentication, property search, booking system, user registration.
 
@@ -52,7 +52,7 @@ Key Functional Requirements:
 - Booking System: Users should be able to book properties, view booking details, and manage their bookings.
 - User Authentication: Secure login and registration process for users.
 
-# Non-functional Requirements
+## Non-functional Requirements
 Definition: Describe how the system should perform.
 Examples: Performance, security, scalability, usability, reliability.
 
@@ -62,3 +62,15 @@ Key Non-functional Requirements:
 - Scalability: The system should be able to scale horizontally to handle increased traffic.
 - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
+# Case Diagram
+Visual representation of interactions between users and the system.
+
+What are Use Case Diagrams?
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development
+  
